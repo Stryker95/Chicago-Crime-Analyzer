@@ -1,6 +1,6 @@
-# Chicago-Crime-Analyzer
-## My primary objective in this role is to leverage historical and recent crime data to identify patterns, trends, and hotspots within Chicago. 
-## ML Model used -RFC 
+## Chicago-Crime-Analyzer
+My primary objective in this role is to leverage historical and recent crime data to identify patterns, trends, and hotspots within Chicago. 
+ML Model used -RFC 
 
                                       precision    recall  f1-score   support
 
