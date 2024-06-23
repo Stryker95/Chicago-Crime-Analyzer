@@ -35,7 +35,9 @@ ML Model used -RFC
                         macro avg       0.55      0.41      0.43     16155
                      weighted avg       0.82      0.83      0.82     16155
 
-                 
+
+Power BI file too big to upload so only uploading screenshot
+
 NAME : Sanchit Pal Singh
 
 BATCH: MDE087
